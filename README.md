@@ -6,6 +6,8 @@ I'm Emmanuel, a career-changer who's (recently) decided to make a drastic change
 
 In my spare time, you can usually still find me in front of the laptop... looking up and reading up about anything audio/video or playing some video games. I'm a natural tinkerer, and I love bridging the gap between software and hardware (from building arduino sketches, play around with a Raspberry Pi and building an Unraid NAS server to host several docker containers/database/website & media).
 
+📸 I'm also a big photography fan, and I've been a professional wedding photographer for several years. You can find my work on Instagram (link below my profile picture).
+
 🤔 I'm currently looking for my first position as a developer within the industry.
 
 📫 Feel free to contact me if you have any questions, my details are on the left below my profile picture 😃
